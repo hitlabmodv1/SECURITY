@@ -1,2 +1,2 @@
-USERNAME=bangwily
-PASSWORD=alamak
+USERNAME=wily
+PASSWORD=wily
